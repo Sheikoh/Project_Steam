@@ -1,5 +1,8 @@
 # Project Steam
 
+lien github:
+https://github.com/Sheikoh/Project_Steam.git
+
 ## Objective
 
 This project aims at analysing data on games registered in the steam library. The observations are linked to the Publishers, Genres, Release date, ratings and so on. 
